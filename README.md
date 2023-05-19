@@ -9,6 +9,6 @@ The work flow I will be adopting is as follows:
 5)	Installing MongoDB on Hadoop cluster 
 6)	Converting the queried result sets into dictionary and storing them in MongoDB in the form of collections from PySpark. 
 
-![Flow chart of project-2](https://github.com/Satish-Gummadi/Bank_loan_Data_Analysis_project_using_AWS/assets/111731023/8d8d2434-7754-4414-b1ff-297235606ee5)
+![Flow chart of project-2](https://github.com/Satish-Gummadi/Bank_loan_Data_Analysis_project_using_AWS/assets/111731023/725e2c1c-064d-4a2a-a70e-042b9445f86e)
 
 The Detailed process is explained in the project report attached. Please refer the report file to check the End-to-End modeling of the pipeline and analysis of the Bank loan data.
